@@ -2,7 +2,7 @@
 - 👀 I’m interested in Computer World or Information  Technology World or Cyber World.
 - 🌱 I’m currently persuing Bachelor Of Computer Application (BCA).
 - 💞️ I’m looking to collaborate on reputed organization for jobs.
-- 📫 You can reach me ... sameemmiya247@gmail.com
+- 📫 You can reach me ... iamshamim1999@gmail.com
 
 ### 🔧 Tech Stack
 
