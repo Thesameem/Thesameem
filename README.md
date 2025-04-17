@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Thesameem / Sameem Din Miya.
 - 👀 I’m interested in Computer World or Information  Technology World or Cyber World.
-- 🌱 I’m currently learning Bachelor Of Computer Application (BCA).
+- 🌱 I’m currently persuing Bachelor Of Computer Application (BCA).
 - 💞️ I’m looking to collaborate on reputed organization for jobs.
 - 📫 You can reach me ... sameemmiya247@gmail.com
 
