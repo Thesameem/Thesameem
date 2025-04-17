@@ -13,6 +13,15 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)
 
+
+### 📊 GitHub Stats
+
+![Sameem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SameemDinMiya&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SameemDinMiya&layout=compact&theme=radical)
+
+---
+
 ---
 <!---
 Thesameem/Thesameem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
