@@ -16,9 +16,9 @@
 
 ### 📊 GitHub Stats
 
-![Sameem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SameemDinMiya&show_icons=true&theme=radical)
+![Sameem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thesameem&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SameemDinMiya&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Thesameem&layout=compact&theme=radical)
 
 ---
 
