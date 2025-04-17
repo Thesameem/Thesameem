@@ -20,9 +20,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Thesameem&layout=compact&theme=radical)
 
----
-
----
+![visitors](https://komarev.com/ghpvc/?username=Thesameem&label=PROFILE+VIEWS)
 <!---
 Thesameem/Thesameem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
