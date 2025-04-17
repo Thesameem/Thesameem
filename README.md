@@ -20,6 +20,12 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Thesameem&layout=compact&theme=radical)
 
+### 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/www.linkedin.com/in/iamshamim1999)  
+[![Email](https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white)](mailto:iamshamim1999@gmail.com)
+
+
 ![visitors](https://komarev.com/ghpvc/?username=Thesameem&label=PROFILE+VIEWS)
 <!---
 Thesameem/Thesameem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
