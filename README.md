@@ -24,6 +24,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thesameem&show_icons=true&layout=compact&theme=radical&langs_count=8)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Thesameem&theme=gruvbox&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 
 ### 📫 Let's Connect
 
