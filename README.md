@@ -22,14 +22,11 @@
 
 ![Sameem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thesameem&show_icons=true&theme=radical)
 
-![Metrics](https://raw.githubusercontent.com/Thesameem/main/github-metrics.svg)
-
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thesameem&show_icons=true&layout=compact&theme=radical&langs_count=8)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Thesameem&theme=radical&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Thesameem&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
