@@ -22,8 +22,6 @@
 
 ![Sameem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thesameem&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Thesameem&layout=compact&theme=radical)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thesameem&show_icons=true&layout=compact&theme=radical&langs_count=8)
 
 
