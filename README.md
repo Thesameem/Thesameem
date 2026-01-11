@@ -24,8 +24,7 @@
 
 ![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Thesameem&show_icons=true&layout=compact&theme=radical&langs_count=8)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Thesameem&theme=radical&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Thesameem&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 
 ### 📫 Let's Connect
