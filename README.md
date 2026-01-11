@@ -22,19 +22,13 @@
 
 ---
 
-### 📈 Activity Graph
-*A visual representation of my coding contributions.*
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Thesameem&theme=radical&hide_border=true&area=true)
-
 ### 📊 GitHub Stats
 
 ![Sameem's GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Thesameem&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Thesameem&show_icons=true&layout=compact&theme=radical&langs_count=8)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Thesameem&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Thesameem&theme=radical&hide_border=true&cache_buster=1)](https://git.io/streak-stats)
 ---
 
 ### 📫 Let's Connect
