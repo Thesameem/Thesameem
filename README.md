@@ -9,6 +9,9 @@
 
 ### 🔧 Tech Stack
 
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) ![IT Troubleshooting](https://img.shields.io/badge/IT-Troubleshooting-critical?logo=iterm2&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
+![IT Administrator](https://img.shields.io/badge/IT-Administrator-blue?logo=windows&logoColor=white) ![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?logo=cpanel&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white) ![DNS](https://img.shields.io/badge/DNS-Management-0052FF?logo=target&logoColor=white) ![Web Hosting](https://img.shields.io/badge/Web%20Hosting-Managed-6C63FF?logo=serverfault&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?logo=android-studio&logoColor=white) ![Android Troubleshooting](https://img.shields.io/badge/Android-Troubleshooting-green?logo=android&logoColor=white) ![iOS Bypass](https://img.shields.io/badge/iOS-Bypass%20Expert-lightgrey?logo=apple&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-F55247?logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
