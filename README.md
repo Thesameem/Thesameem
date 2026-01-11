@@ -30,7 +30,24 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Thesameem&theme=radical&hide_border=true&cache_buster=1)](https://git.io/streak-stats)
 ---
+### 📊 Real-time Contribution Matrix
+*Since the traditional streak is failing, this 3D-style graph is a unique way to show your activity.*
 
+![Activity Wave](https://github-readme-activity-graph.vercel.app/graph?username=Thesameem&theme=radical&area=true&hide_border=true)
+
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Thesameem&show_icons=true&theme=radical&rank_icon=github" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Thesameem&show_icons=true&layout=compact&theme=radical&langs_count=8" width="48%" />
+</p>
+
+---
+
+### 🐍 The Code Snake
+*Watch a snake eat your contribution grid in real-time!*
+
+![Snake Animation](https://cdn.jsdelivr.net/gh/Thesameem/Thesameem@output/github-contribution-grid-snake.svg)
+
+---
 ### 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamshamim1999)  
